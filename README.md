@@ -1,10 +1,10 @@
 # SlimmeLezer
 ## Current (default)
-[<img src="/classic/img/SlimmeLezer.png">](/classic/)
+[<img src="/classic/img/SlimmeLezer.png">](/Classic/)
 28x61mm / esp8266 (esp12f)
 ## Pro
-[<img src="/pro/img/SlimmeLezer-Pro.png">](/pro/)
+[<img src="/pro/img/SlimmeLezer-Pro.png">](/Pro/)
 26x62mm / ESP32-C3 / W5500 ethernet
 ## Mini
-[<img src="/mini/img/SlimmeLezer-Mini.png">](/mini/)
+[<img src="/mini/img/SlimmeLezer-Mini.png">](/Mini/)
 14x37mm / ESP32-C3
