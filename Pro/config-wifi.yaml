@@ -84,7 +84,8 @@ update:
 http_request:
 
 dashboard_import:
-  package_import_url: github://zuidwijk/slimmelezer/pro/config-wifi.yaml@main
+  package_import_url: github://zuidwijk/SlimmeLezer/Pro/config-wifi.yaml@main
+  import_full_config: true
 
 web_server:
   port: 80
