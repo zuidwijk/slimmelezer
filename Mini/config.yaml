@@ -72,6 +72,7 @@ http_request:
 
 dashboard_import:
   package_import_url: github://zuidwijk/slimmelezer/mini/config.yaml@main
+  import_full_config: true
 
 web_server:
   port: 80
